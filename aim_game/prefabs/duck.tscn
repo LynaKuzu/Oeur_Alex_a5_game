@@ -1,0 +1,37 @@
+[gd_scene load_steps=5 format=3 uid="uid://b0f3m55n8acpi"]
+
+[ext_resource type="Script" path="res://RigidBody2d.cs" id="1_jwm4y"]
+[ext_resource type="Script" path="res://addons/2d_shapes/shapes/Ellipse.gd" id="2_yss2x"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_c0tst"]
+radius = 20.0
+
+[sub_resource type="CSharpScript" id="CSharpScript_mmww3"]
+script/source = "using Godot;
+using System;
+
+public partial class CollisionShape2d : CollisionShape2D
+{
+	// Called when the node enters the scene tree for the first time.
+	public override void _Ready()
+	{
+	}
+
+	// Called every frame. 'delta' is the elapsed time since the previous frame.
+	public override void _Process(double delta)
+	{
+	}
+}
+"
+
+[node name="RigidBody2D" type="RigidBody2D"]
+script = ExtResource("1_jwm4y")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_c0tst")
+script = SubResource("CSharpScript_mmww3")
+
+[node name="Ellipse" type="Node2D" parent="."]
+script = ExtResource("2_yss2x")
+size = Vector2(40, 40)
+circle = true

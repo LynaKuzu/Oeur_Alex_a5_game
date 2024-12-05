@@ -1,0 +1,28 @@
+[gd_scene load_steps=5 format=3 uid="uid://dl8gqb4me6di8"]
+
+[ext_resource type="Script" path="res://addons/2d_shapes/shapes/Rectangle.gd" id="1_36spl"]
+[ext_resource type="Script" path="res://Node2d.cs" id="2_0d8cx"]
+[ext_resource type="PackedScene" uid="uid://b0f3m55n8acpi" path="res://prefabs/duck.tscn" id="2_4lfmg"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0fddg"]
+size = Vector2(1280, 20)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Floor" type="StaticBody2D" parent="."]
+
+[node name="Floor" type="CollisionShape2D" parent="Floor"]
+position = Vector2(592, 640)
+shape = SubResource("RectangleShape2D_0fddg")
+
+[node name="Floor2" type="Node2D" parent="Floor"]
+position = Vector2(592, 640)
+scale = Vector2(0.996667, 1.00408)
+script = ExtResource("1_36spl")
+size = Vector2(1280, 20)
+corner_radius = 0.0
+
+[node name="duck" type="Node2D" parent="."]
+script = ExtResource("2_0d8cx")
+
+[node name="RigidBody2D" parent="duck" instance=ExtResource("2_4lfmg")]
