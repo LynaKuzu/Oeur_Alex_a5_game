@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aoeur\\Documents\\aim_game\\",
+  "WorkspaceRootPath": "C:\\Users\\aoeur\\source\\repos\\Oeur_Alex_a5_game\\aim_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\documents\\aim_game\\node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|solutionrelative:node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\source\\repos\\oeur_alex_a5_game\\aim_game\\rigidbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|solutionrelative:rigidbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\documents\\aim_game\\rigidbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|solutionrelative:rigidbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\source\\repos\\oeur_alex_a5_game\\aim_game\\node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|solutionrelative:node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Node2d.cs",
-              "DocumentMoniker": "C:\\Users\\aoeur\\Documents\\aim_game\\Node2d.cs",
+              "DocumentMoniker": "C:\\Users\\aoeur\\source\\repos\\Oeur_Alex_a5_game\\aim_game\\Node2d.cs",
               "RelativeDocumentMoniker": "Node2d.cs",
-              "ToolTip": "C:\\Users\\aoeur\\Documents\\aim_game\\Node2d.cs",
+              "ToolTip": "C:\\Users\\aoeur\\source\\repos\\Oeur_Alex_a5_game\\aim_game\\Node2d.cs",
               "RelativeToolTip": "Node2d.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:03:45.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RigidBody2d.cs",
-              "DocumentMoniker": "C:\\Users\\aoeur\\Documents\\aim_game\\RigidBody2d.cs",
+              "DocumentMoniker": "C:\\Users\\aoeur\\source\\repos\\Oeur_Alex_a5_game\\aim_game\\RigidBody2d.cs",
               "RelativeDocumentMoniker": "RigidBody2d.cs",
-              "ToolTip": "C:\\Users\\aoeur\\Documents\\aim_game\\RigidBody2d.cs",
+              "ToolTip": "C:\\Users\\aoeur\\source\\repos\\Oeur_Alex_a5_game\\aim_game\\RigidBody2d.cs",
               "RelativeToolTip": "RigidBody2d.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T21:35:51.43Z",
               "EditorCaption": ""

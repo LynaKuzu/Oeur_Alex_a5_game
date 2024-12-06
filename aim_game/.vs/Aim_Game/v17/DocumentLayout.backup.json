@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\aoeur\\Documents\\aim_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aoeur\\Documents\\aim_game\\Node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\documents\\aim_game\\node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|solutionrelative:node2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4016C177-7ADB-4C25-AE0A-3D59A8152818}|Aim_Game.csproj|c:\\users\\aoeur\\documents\\aim_game\\rigidbody2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Node2d.cs",
               "ToolTip": "C:\\Users\\aoeur\\Documents\\aim_game\\Node2d.cs",
               "RelativeToolTip": "Node2d.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:03:45.579Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "RigidBody2d.cs",
               "ToolTip": "C:\\Users\\aoeur\\Documents\\aim_game\\RigidBody2d.cs",
               "RelativeToolTip": "RigidBody2d.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T21:35:51.43Z",
               "EditorCaption": ""

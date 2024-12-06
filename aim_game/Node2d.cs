@@ -4,7 +4,9 @@ using System.Timers;
 
 public partial class Node2d : Node2D
 {
-	// Called when the node enters the scene tree for the first time.
+    // Called when the node enters the scene tree for the first time.
+    [Export]
+    RigidBody2D RigidBody2D;
 	public override void _Ready()
 	{
     }
